@@ -1,6 +1,6 @@
 # generate_prompt.php
 
-Simple idea here, generate openai prompt using data key=>pair array  
+Simple idea here, generate openai prompt using data key=>pair array to learn rules how data are processed  
 Should produce something like this, copied from browser output:  
 
 ```
